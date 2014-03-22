@@ -13,3 +13,4 @@
 [submodule "submodules/vimrc"]
 	path = submodules/vimrc
 	url = https://gist.github.com/9310227.git
+	branch = master
