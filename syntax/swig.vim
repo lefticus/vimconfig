@@ -1,0 +1,1 @@
+../submodules/SWIG-syntax/syntax/swig.vim
