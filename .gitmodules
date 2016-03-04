@@ -14,3 +14,12 @@
 	path = submodules/vimrc
 	url = https://gist.github.com/9310227.git
 	branch = master
+[submodule "submodules/vim-airline"]
+	path = submodules/vim-airline
+	url = https://git@github.com/vim-airline/vim-airline
+[submodule "submodules/vim-gitgutter"]
+	path = submodules/vim-gitgutter
+	url = http://github.com/airblade/vim-gitgutter
+[submodule "submodules/syntastic"]
+	path = submodules/syntastic
+	url = https://github.com/scrooloose/syntastic
